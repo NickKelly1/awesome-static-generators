@@ -38,6 +38,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
 *   [Orchid Posts](https://orchid.netlify.app) - Add Jekyll-like blogging functionality to your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 *   [Pelican](https://github.com/getpelican/pelican) - Uses Markdown or ReST for content and Jinja2 for themes. - `#Python`
+*   [PRPL](https://prpl.dev) - A modular static site generator built for longevity - `#TypeScript` `#JavaScript` `#Node.js`
 *   [Qgoda](http://www.qgoda.net/) - Arbitrary taxonomies and cross-links, multi-lingua. - `#Perl`
 *   [Serum](https://dalgona.github.io/Serum/) - Serum is a static website generator written in Elixir Programming Language. - `#Elixir`
 *   [Sphido](https://sphido.org/) - A rocket 🚀 fast, lightweight, static site generator `#Node.js`
@@ -49,10 +50,11 @@ A static web site generator is an application that takes plain text files and co
 
 ### CMS
 
+*   [Datenstrom Yellow](https://datenstrom.se/yellow/) - For people who make small websites. - `#PHP`
 *   [Lektor](https://www.getlektor.com/) - An easy to use static CMS and blog engine. - `#Python`
+*   [Primo](https://primo.so) - An all-in-one static site builder. - `#Svelte` `#Electron`
 *   [Publii](http://getpublii.com/) - Easy-to-use desktop app to generate static websites. - `#JavaScript` `#Electron`
 *   [Tipe](https://tipe.io/) - An easy to use API-first CMS engine to generate static sites. - `#JavaScript`
-*   [Datenstrom Yellow](https://datenstrom.se/yellow/) - For people who make small websites. - `#PHP`
 
 ### Documentation
 
@@ -86,7 +88,6 @@ A static web site generator is an application that takes plain text files and co
 *   [Hakyll](https://github.com/jaspervdj/hakyll) - Hakyll is a Haskell library for generating static sites, mostly aimed at small-to-medium sites and personal blogs. It is written in a very configurable way and uses an xmonad-like DSL for configuration. - `#Haskell`
 *   [Harp](http://harpjs.com/) - `#JavaScript` `#Node.js`
 *   [Hugo](https://github.com/spf13/hugo) - It is optimized for speed, easy use and configurability. - `#Go`
-*   [Ivy](https://mulholland.xyz/docs/ivy/) - It's small, elegant, and easy to use. - `#Python`
 *   [JBake](https://github.com/jbake-org/jbake) `#Java`
 *   [LambdaPad](https://github.com/gar1t/lambdapad) - `#Erlang`
 *   [m4-bakery](https://github.com/datagrok/makebakery) - `#make` `#m4`
@@ -137,12 +138,12 @@ A static web site generator is an application that takes plain text files and co
 *   [Formspree](http://www.formspree.io/) - Adds functional forms to your static web sites.
 *   [git-annex](http://git-annex.branchable.com/tips/setup_a_public_repository_on_a_web_site/) - Configure git-annex for a public repository for a static web site.
 *   [JAMStack Themes](https://jamstackthemes.dev/) - A collection of themes filterable by static site generator and CMS support.
+*   [Statichunt](https://statichunt.com/) - An open sources directory of 700+ free themes and resources for static site generators submitted by the community.
 
 ### Web Hosts
 
 *   [AWS S3](http://aws.amazon.com/s3/)
 *   [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/)
-*   [Divshot](https://divshot.com/)
 *   [GitLab Pages](https://about.gitlab.com/product/pages/)
 *   [Netlify](https://www.netlify.com/)
 *   [Surge](https://surge.sh/)
@@ -153,6 +154,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Static Site Generators](http://staticsitegenerators.net/)
 *   [StaticGen](https://www.staticgen.com/)
 *   [Best Static Site Generators in 2019](https://snipcart.com/blog/choose-best-static-site-generator)
+*   [Beginner’s Guide to Static Site Generators](https://bejamas.io/blog/static-site-generators/)
 
 ## Related Awesome
 
